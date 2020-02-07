@@ -31,6 +31,7 @@ unzip annotation.zip
 ```
 3. run attack code, adversarial examples are in 'result' folder
 ```bash
+mkdir result
 python run_attack.py
 ```
 

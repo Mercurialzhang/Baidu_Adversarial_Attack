@@ -10,6 +10,7 @@ Some of our tricks:
 1. Ensemble 6 models
 2. Use linf to normalize noise instead of sign
 3. Input Diversity
+4. Informative region mask
 
 ## Results
 ![](./images/n02113624_1461.png)
